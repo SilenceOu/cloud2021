@@ -8,4 +8,4 @@ spring:
     name: cloud-consumer-order
   cloud:
     zookeeper:
-      connect-string: 10.211.55.17:2181 #linux的ip加暴露的端口号
+      connect-string: 120.25.221.47:2181 #linux的ip加暴露的端口号
